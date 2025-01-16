@@ -17,6 +17,6 @@ Crypto Tracker is a sleek and user-friendly web application designed to provide 
 - Add your favorite cryptocurrencies to favorites for quick access.
 - Analyze market trends and historical data to make informed decisions.
 
-  ## Acknowledgements
+## Acknowledgements
 - [CoinGecko API](https://www.coingecko.com/en/api) / [CoinMarketCap API](https://coinmarketcap.com/api/) for providing cryptocurrency data.
 - Open-source libraries and tools that made this project possible.
